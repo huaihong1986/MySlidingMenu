@@ -1,0 +1,46 @@
+<resources>
+
+    <dimen name="slidingmenu_offset">100dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+
+    <integer name="num_cols">1</integer>
+    
+      <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="sun_day_size">18sp</dimen>
+    
+    <dimen name="mes_menu_width">300dp</dimen>
+    <dimen name="mes_menu_height">40dp</dimen>
+    
+    <dimen name="mes_sys_tittle_menu_width">100dp</dimen>
+    <dimen name="mes_sys_tittle_menu_height">60dp</dimen>
+    
+    
+    
+    <dimen name="dialog_left_margin">0dp</dimen>
+	<dimen name="dialog_top_margin">0dp</dimen>
+	<dimen name="dialog_right_margin">0dp</dimen>
+	<dimen name="dialog_bottom_margin">0dp</dimen>		
+	<dimen name="dialog_btn_close_right_margin">10dp</dimen>
+	<dimen name="dialog_btn_close_top_margin">10dp</dimen>
+	<dimen name="dialog_title_logo_left_margin">5dp</dimen>
+	<dimen name="dialog_title_height">30dp</dimen>
+	
+	<dimen name="http_live_main_yiji_jiemu">25sp</dimen>	
+	<dimen name="http_live_main_erji_jiemu">20sp</dimen>
+	<dimen name="http_live_main_erji_jiemu2">18sp</dimen>
+	
+	<dimen name="http_live_share_imageview_size">35dp</dimen>
+	
+	<dimen name="http_live_menu_imageview_size">35dp</dimen>
+	<dimen name="http_live_paly_imageview_size">60dp</dimen>
+	<dimen name="http_live_channel_imageview_size">80dp</dimen>
+	
+	<dimen name="select_view_control_imageview_size">100dp</dimen>
+	
+	<dimen name="select_view_heng_line_height_size">2dp</dimen>
+	
+	<dimen name="control_menue_margin_left">30dp</dimen>
+	<dimen name="control_menue_margin_top">80dp</dimen>
+</resources>
